@@ -1,3 +1,7 @@
+![1](https://github.com/Anko21/notebook/assets/117990932/c2bc7139-2122-431b-9002-6d18122cc4a8)
+![2](https://github.com/Anko21/notebook/assets/117990932/87e7e788-01f0-4431-93f0-faefa302bdac)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -10,7 +14,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
+npm start
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
